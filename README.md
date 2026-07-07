@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Black-code27/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Black-code27/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Black-code27/LeetCode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Black-code27/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Black-code27/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
