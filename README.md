@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Black-code27/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Black-code27/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Black-code27/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Black-code27/LeetCode/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Black-code27/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
