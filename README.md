@@ -64,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/Black-code27/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Black-code27/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Black-code27/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
