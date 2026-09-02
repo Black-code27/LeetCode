@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Black-code27/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1859-sorting-the-sentence](https://github.com/Black-code27/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/Black-code27/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [1859-sorting-the-sentence](https://github.com/Black-code27/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
@@ -72,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Black-code27/LeetCode/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/Black-code27/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
