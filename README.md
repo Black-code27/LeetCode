@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Black-code27/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Black-code27/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Black-code27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1773-count-items-matching-a-rule](https://github.com/Black-code27/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Black-code27/LeetCode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/Black-code27/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
