@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Black-code27/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Black-code27/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Black-code27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Black-code27/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Black-code27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Black-code27/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/Black-code27/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
