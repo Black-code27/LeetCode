@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Black-code27/LeetCode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Black-code27/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Black-code27/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Black-code27/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Black-code27/LeetCode/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Black-code27/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Black-code27/LeetCode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Black-code27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/Black-code27/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Backtracking
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Black-code27/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Black-code27/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -140,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Black-code27/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Black-code27/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Black-code27/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Black-code27/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
